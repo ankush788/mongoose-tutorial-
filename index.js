@@ -75,7 +75,9 @@ const personSchema = new mongoose.Schema({
 });
 
 
+// required , unique other attrubute is a property of all json object . 
 
+// mongoose.Schema is use to create a simple schema or a  json object to mongoose schema 
 
 
 //// creating model  it is a constructor for constructing document  by connecting 
